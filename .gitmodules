@@ -1,3 +1,9 @@
 [submodule "searchbar-components-lp"]
 	path = searchbar-components-lp
-	url = https://github.com/panzerstadt/searchbar-components-lp.git
+	url = git@github.com:panzerstadt/searchbar-components-lp.git
+[submodule "searchbar-components-react"]
+	path = searchbar-components-react
+	url = git@github.com:panzerstadt/searchbar-components-react.git
+[submodule "search-components"]
+	path = search-components
+	url = git@github.com:panzerstadt/search-components.git
