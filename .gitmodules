@@ -1,0 +1,3 @@
+[submodule "searchbar-components-lp"]
+	path = searchbar-components-lp
+	url = https://github.com/panzerstadt/searchbar-components-lp.git
